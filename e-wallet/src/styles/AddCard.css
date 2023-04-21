@@ -1,0 +1,9 @@
+.add__Card--btn {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 22px;
+    width: 382px;
+    height: 72px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+}

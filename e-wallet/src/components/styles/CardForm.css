@@ -1,0 +1,67 @@
+.card__Form--section {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.card__Form--text {
+    display: flex;
+    flex-direction: row;
+}
+
+.form__text {
+    font-size: 12px;
+    margin-top: 2rem;
+}
+
+.form__text--ccv {
+    font-size: 12px;
+    margin-left: 9.5rem;
+    margin-top: 2rem;
+}
+
+.form__text--valid {
+    font-size: 12px;
+    margin-top: 2rem;
+}
+
+.form__Input {
+    width: 382px;
+    height: 56px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+.card__Form--small {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form__Input--validThru {
+    width: 175px;
+    height: 56px;
+    border-radius: 8px;
+    font-size: 18px;
+    border: 1px solid black;
+}
+
+.form__Input--ccv {
+    width: 175px;
+    height: 56px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 1px solid black;
+    margin-left: 27px;
+}
+
+.form__Select {
+    width: 382px;
+    height: 56px;
+    border-radius: 8px;
+    border: 1px solid black;
+    margin-bottom: 3rem;
+}
+
+.option__Value {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 19px;
+}

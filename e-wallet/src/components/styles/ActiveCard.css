@@ -1,0 +1,55 @@
+.active__Card--section {
+    width: 382px;
+    height: 241px;
+    font-family: 'PT Mono', monospace;
+    border-radius: 8px;
+    background-color: #FFAE34;
+}
+
+.svg__Container {
+    width: 382px;
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
+
+.card__Text--container {
+    display: flex;
+    height: 25px;
+}
+
+.card__holder--text {
+    margin-left: 1rem;
+    opacity: 80%;
+}
+
+.valid__container {
+    display: flex;
+}
+
+.card__Holder {
+    padding-left: 1rem;
+}
+
+.card__ValidThru--text {
+    padding-left: 9rem;
+    opacity: 80%;
+}
+
+.card__ValidThru {
+    padding-left: 3.5rem;
+    font-size: 16px;
+}
+
+.card__Number {
+    font-size: 29px;
+    margin: 0;
+    padding-left: 1rem;
+}
+
+.card__Holder {
+    font-size: 18px;
+}
+
+.Bitcoin {
+    margin-left: 16rem;
+}

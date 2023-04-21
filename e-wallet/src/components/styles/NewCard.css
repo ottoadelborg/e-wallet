@@ -1,0 +1,57 @@
+.Card__Stack--container {
+    position: relative;
+}
+
+.card-stack-evil-corp {
+    width: 382px;
+    height: 241px;
+    font-family: 'PT Mono', monospace;
+    border-radius: 8px;
+    margin-top: 40%;
+    background-color: #F33355;
+    color: white;
+}
+
+.card-stack-block-chain-inc {
+    width: 382px;
+    height: 241px;
+    font-family: 'PT Mono', monospace;
+    border-radius: 8px;
+    margin-top:10%;
+    background-color: #8B58F9;
+    color: white;
+}
+
+.card-stack-bitcoin {
+    width: 382px;
+    height: 241px;
+    font-family: 'PT Mono', monospace;
+    border-radius: 8px;
+    margin-top:30%;
+    background-color: #FFAE34;
+}
+
+.card-stack-ninja-bank {
+    width: 382px;
+    height: 241px;
+    font-family: 'PT Mono', monospace;
+    border-radius: 8px;
+    margin-top:20%;
+    background-color: #222222;
+    color: white;
+}
+
+.card-stack-block-chain-inc,
+.card-stack-bitcoin,
+.card-stack-ninja-bank,
+.card-stack-evil-corp {
+    position: absolute;
+    top: 0; 
+    left: 0;
+    z-index: 1;
+}
+
+.card__ValidThru {
+    font-size: 15px;
+    margin-left: 5rem;
+}
